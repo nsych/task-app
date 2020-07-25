@@ -1,0 +1,14 @@
+body {
+  background-color:red;
+}
+li {
+  font-size: 40px;
+  border-bottom: 1px solid blue;
+padding: 10px 5px;
+}
+ul {
+  list-style-type: none;
+}
+li:hover {
+    color: blue
+}
